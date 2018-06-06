@@ -1,0 +1,30 @@
+2017 五月 31 16:20:52,930 DEBUG LoggerTest - this is debug
+2017 五月 31 16:20:52,935 ERROR LoggerTest - this is error
+2017 五月 31 16:20:52,935  INFO LoggerTest -  this is info
+2017 五月 31 16:20:52,935  WARN LoggerTest -  this is warn
+2017 五月 31 16:20:52,936 FATAL LoggerTest -  this is fatal
+2017 五月 31 16:22:23,466 DEBUG LoggerTest - this is debug
+2017 五月 31 16:22:23,468 ERROR LoggerTest - this is error
+2017 五月 31 16:22:23,469 INFO LoggerTest -  this is info
+2017 五月 31 16:22:23,469 WARN LoggerTest -  this is warn
+2017 五月 31 16:22:23,469 FATAL LoggerTest -  this is fatal
+2017 五月 31 16:26:21,026 DEBUG LoggerTest - this is debug
+2017 五月 31 16:26:21,028 ERROR LoggerTest - this is error
+2017 五月 31 16:26:21,028  INFO LoggerTest -  this is info
+2017 五月 31 16:26:21,028  WARN LoggerTest -  this is warn
+2017 五月 31 16:26:21,028 FATAL LoggerTest -  this is fatal
+2017 05 31 16:27:02,961 DEBUG LoggerTest - this is debug
+2017 05 31 16:27:02,965 ERROR LoggerTest - this is error
+2017 05 31 16:27:02,965  INFO LoggerTest -  this is info
+2017 05 31 16:27:02,965  WARN LoggerTest -  this is warn
+2017 05 31 16:27:02,965 FATAL LoggerTest -  this is fatal
+2017-05-31-16:27:50,024 DEBUG LoggerTest - this is debug
+2017-05-31-16:27:50,025 ERROR LoggerTest - this is error
+2017-05-31-16:27:50,025  INFO LoggerTest -  this is info
+2017-05-31-16:27:50,026  WARN LoggerTest -  this is warn
+2017-05-31-16:27:50,026 FATAL LoggerTest -  this is fatal
+2017-05-31 16:28:22,511 DEBUG LoggerTest - this is debug
+2017-05-31 16:28:22,514 ERROR LoggerTest - this is error
+2017-05-31 16:28:22,514  INFO LoggerTest -  this is info
+2017-05-31 16:28:22,514  WARN LoggerTest -  this is warn
+2017-05-31 16:28:22,515 FATAL LoggerTest -  this is fatal

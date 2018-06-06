@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="GB2312"?>
+<ufinterface>
+	<bill tag="1">
+		<head>
+			<!-- 项目 -->
+			<project>项目id</project>
+			<!--楼栋 -->
+			<building>楼栋</building>
+			<!--单元 -->
+			<vhcell>单元</vhcell>
+			<!--房号id -->
+			<houseid>100000</houseid>
+			<!--操作人账号 -->
+			<reportpsnid>操作人账号</reportpsnid>
+			<!-- 记录时间 字段长度为19 -->
+			<recordingtime>2016-08-01 11:09:01</recordingtime>
+			<!-- 上传时间 字段长度为19 -->
+			<uploadtime>2016-08-01 11:09:01</uploadtime>
+		</head>
+		<body row = "1">
+			<!-- 移动交楼问题id -->
+			<movingfloorid>问题id1</movingfloorid>
+			<!--问题部位，检查项 -->
+			<vreportcontent>阳台漏水1</vreportcontent>
+		</body>
+		<body row = "2">
+			<!-- 移动交楼问题id -->
+			<movingfloorid>问题id2</movingfloorid>
+			<!--问题部位，检查项 -->
+			<vreportcontent>阳台漏水2</vreportcontent>
+		</body>
+	</bill>
+	<bill tag="2">
+		<head>
+			<project>pk_project</project><!-- 项目 -->
+			
+			<building>pk_building</building><!--楼栋 -->
+			
+			<vhcell>vhcell</vhcell><!--单元 -->
+			
+			<houseid>200000</houseid><!--房号id -->
+			
+			<reportpsnid>reportpsnid</reportpsnid><!--操作人账号 -->
+			
+			<recordingtime>2016-08-03 11:09:01</recordingtime><!-- 记录时间  字段长度为19 -->
+			
+			<uploadtime>2016-08-03 11:09:01</uploadtime><!-- 上传时间   字段长度为19 -->
+		</head>
+		<body row = "1">
+			<movingfloorid>1111111</movingfloorid><!-- 移动交楼问题id -->
+			<vreportcontent>11112222</vreportcontent><!--问题部位，检查项 -->
+		</body>
+		<body row ="2">
+			<movingfloorid>22222111</movingfloorid><!-- 移动交楼问题id -->
+			<vreportcontent>2222222</vreportcontent><!--问题部位，检查项 -->
+		</body>
+	</bill>
+	
+</ufinterface>
+

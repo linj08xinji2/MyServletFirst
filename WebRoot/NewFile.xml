@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="GB2312"?>
+<ufinterface>
+	<bill tag="1">
+		<head>
+			<!-- 项目 -->
+			<project>项目id</project>
+			<!--楼栋 -->
+			<building>楼栋</building>
+			<!--单元 -->
+			<vhcell>单元</vhcell>
+			<!--房号id -->
+			<houseid>123456789</houseid>
+			<!--操作人账号 -->
+			<reportpsnid>操作人账号</reportpsnid>
+			<!-- 记录时间 字段长度为19 -->
+			<recordingtime>2016-08-03 11:09:01</recordingtime>
+			<!-- 上传时间 字段长度为19 -->
+			<uploadtime>2016-08-03 11:09:01</uploadtime>
+		</head>
+		<body row = "1">
+			<!-- 移动交楼问题id -->
+			<movingfloorid>问题id1</movingfloorid>
+			<!--问题部位，检查项 -->
+			<vreportcontent>阳台漏水1</vreportcontent>
+		</body>
+		<body row = "2">
+			<!-- 移动交楼问题id -->
+			<movingfloorid>问题id2</movingfloorid>
+			<!--问题部位，检查项 -->
+			<vreportcontent>阳台漏水2</vreportcontent>
+		</body>
+	</bill>
+</ufinterface>
+

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ufinterface root="return" billtype="2210">
+  <data tag="1">
+    <movingfloorid>1234</movingfloorid>
+    <modifytime></modifytime>
+    <passtime></passtime>
+    <closeinfo></closeinfo>
+    <closetime></closetime>
+    <unitsinfo>
+      <units row="1">
+        <unitszrate>100%</unitszrate>
+        <quantities>测试1</quantities>
+        <sumprice></sumprice>
+        <sgdw></sgdw>
+      </units>
+      <units row="2">
+        <unitszrate>100%</unitszrate>
+        <quantities>测试2</quantities>
+        <sumprice></sumprice>
+        <sgdw></sgdw>
+      </units>
+      <units row="3">
+        <unitszrate>100%</unitszrate>
+        <quantities>测试3</quantities>
+        <sumprice></sumprice>
+        <sgdw></sgdw>
+      </units>
+    </unitsinfo>
+  </data>
+</ufinterface>
