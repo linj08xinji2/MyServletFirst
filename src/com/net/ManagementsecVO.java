@@ -1,6 +1,5 @@
 package com.net;
 
-import javax.validation.ValidationException;
 /**
  * 项目档案 syn_managementsec 生成的VO对象
  * 
@@ -295,7 +294,7 @@ public class ManagementsecVO  {
 	 * @return UFBoolean isupdate
 	 */
 	
-	public void validate() throws ValidationException {
+	public void validate()  {
 	}
 	
 	/**
